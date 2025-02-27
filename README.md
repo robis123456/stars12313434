@@ -37,3 +37,6 @@ touch layout/theme.liquid
     {{ content_for_layout }}
 </body>
 </html>
+git add .
+git commit -m "Initial commit with stars theme"
+git push origin main
